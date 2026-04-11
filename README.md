@@ -5,7 +5,7 @@
 <em>(Region: AL · GA · NC · SC · TN)</em>
 </p>
 
-**[Try the live tool here](https://yechansota.github.io/Manufacturing-Task-KSA-Explorer/)**
+**[Try the live tool here](https://yechansota.github.io/Manufacturing-Task-KSA-Explorer/Project3_TaskInventory_KSA_Analyzer.html)**
 
 ---
 
