@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: software
+title: "Manufacturing Task & KSA Explorer"
+abstract: "An interactive tool for task-level knowledge, skill and ability (KSA) profiling, cross-training similarity and safety-integrated workforce planning across 191 manufacturing tasks in six industries, built on O*NET and other public sources."
+authors:
+  - family-names: Kim
+    given-names: Yechan
+    alias: Sean Kim
+repository-code: "https://github.com/yechansota/Manufacturing-Task-KSA-Explorer"
+url: "https://yechansota.github.io/Manufacturing-Task-KSA-Explorer/Project3_TaskInventory_KSA_Analyzer.html"
+license: MIT
+keywords:
+  - KSA
+  - task analysis
+  - cross-training
+  - manufacturing
+  - O*NET
